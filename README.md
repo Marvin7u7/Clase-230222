@@ -2,7 +2,7 @@
 
 #Clonarlo si es Primera Vez
 ```bash
-git clone https://github.com/HansselCarcache/FDocente.git
+git clone https://github.com/soymegh/HowToUseGitHub
 ```
 
 #Si has hecho un cambio, Primero buscar donde lo guardastes el proyecto en tu pc
